@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">DaggerGranola</string>
 
-    <string name="intro">intro</string>
+    <string name="btn_what_is_this">What is this?</string>
+    <string name="title_what_is_this">Dependant Components</string>
+    <string name="ok">Ok</string>
+    <string name="intro">This app is an example of Dependency Injection with Dependant Components.
+        There is a parent - child relationship in between components.\n
+        \u2022The parent component provides certain objects common to all the app.\n
+        \u2022The child component provides objects specific for the activity.\n
+        This is Dependant Components example, rather than Subcomponent example which is something else.
+    </string>
     <string name="nothing_to_display">Nothing to Display</string>
+    <string name="parent_is_null">Parent is null</string>
+    <string name="child_is_null">Child is null</string>
 </resources>
